@@ -1,4 +1,4 @@
-{-# LANGUAGE JavaScriptFFI, CPP #-}
+{-# LANGUAGE JavaScriptFFI #-}
 module Main where
 import GHCJS.Types
 import GHCJS.Foreign
