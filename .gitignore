@@ -14,3 +14,7 @@ cabal.sandbox.config
 *.prof
 *.aux
 *.hp
+*.js_hi
+*.jsexe
+*.js_o
+*.*~
